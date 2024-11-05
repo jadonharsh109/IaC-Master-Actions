@@ -1,5 +1,5 @@
 
-# GitOps Master Actions
+# IaC Master Actions
 
 
 This repository is designed to help you automate key stages in your software development workflow using GitHub Actions.
